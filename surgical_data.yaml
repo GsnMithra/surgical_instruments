@@ -1,0 +1,6 @@
+train: ../surgical_dataset/images/train
+val: ../surgical_dataset/images/val
+
+nc: 4
+
+names: ['Scalpel', 'Straight Disection Clamp', 'Straight Mayo Scissor', 'Curved Mayo Scissor']
